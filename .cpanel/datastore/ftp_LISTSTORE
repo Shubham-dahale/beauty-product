@@ -1,0 +1,1 @@
+{"timeout":0,"statusmsg":"Ran adminbin Cpanel/ftp/LISTSTORE","data":[{"homedir":"/home/anandchayahostel","type":"main","user":"anandchayahostel"},{"type":"logaccess","homedir":"/etc/apache2/logs/domlogs/anandchayahostel","user":"anandchayahostel_logs"}],"version":"2.4","action":"fetch","status":1,"exit_code":0,"mode":"simple","error":0}
